@@ -1,0 +1,12 @@
+{
+    "app": {
+      "add": {
+        "licences" : "Licences pour ZDisplay",
+        "licences-info" : "L'accès à ZDisplay est totalement gratuit, mais pour accéder au stockage des messages et des fichiers, vous avez besoin d'un serveur ZDisplay. Les serveurs ZDisplay vous permettent de créer un espace trié par pièces pouvant héberger des messages.",
+        "licences-subtitle" : "Il est temps de créer votre propre serveur !",
+        "licence-indi" : "individuel",
+        "licence-commu" : "Communauté",
+        "licence-org" : "organisation"
+      }
+    }
+}
