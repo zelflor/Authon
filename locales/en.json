@@ -1,8 +1,8 @@
 {
     "app": {
       "add": {
-        "licences" : "Licenses for Horyx",
-        "licences-info" : "Access to Horyx is totally free, but to access message and file storage you need a Horyx server. Horyx servers allow you to create a space sorted by rooms that can host messages.",
+        "licences" : "Licenses for Authon",
+        "licences-info" : "Access to Authon is totally free, but to access message and file storage you need a Authon server. Authon servers allow you to create a space sorted by rooms that can host messages.",
         "licences-subtitle" : "It's time to create your own server!",
         "licence-indi" : "individual",
         "licence-commu" : "Community",
