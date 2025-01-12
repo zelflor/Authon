@@ -2,11 +2,28 @@
     "app": {
       "add": {
         "licences" : "Licences pour Authon",
-        "licences-info" : "L'accès à Authon est totalement gratuit, mais pour accéder au stockage des messages et des fichiers, vous avez besoin d'un serveur Authon. Les serveurs Authon vous permettent de créer un espace trié par pièces pouvant héberger des messages.",
+        "licences-info" : "L'accès à Authon est totalement gratuit, mais pour accéder au stockage des messages et des fichiers, vous avez besoin d'un serveur Authon. Les serveurs Authon vous permettent de créer un espace trié par salons pouvant héberger des messages.",
         "licences-subtitle" : "Il est temps de créer votre propre serveur !",
         "licence-indi" : "individuel",
         "licence-commu" : "Communauté",
-        "licence-org" : "organisation"
+        "licence-org" : "organisation",
+        "free": "GRATUIT",
+        "request": "Demande",
+        "max-members": "Max. membres",
+        "serv-icon": "Icône serv.",
+        "serv-banner": "Bannière serv.",
+        "role-icon": "Icône rôle",
+        "custom-link": "Lien perso.",
+        "save-messages": "Sauveg. msgs",
+        "pin-messages": "Msgs éping.",
+        "verified-badge": "Badge vérif.",
+        "order": "Commande",
+        "custom-price": "Prix perso."
+      },
+      "sidebar": {
+        "you" : "Vous",
+        "explore": "Explorer",
+        "create-serv": "Créé un serveur"
       }
     }
 }

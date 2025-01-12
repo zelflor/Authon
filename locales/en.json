@@ -6,7 +6,24 @@
         "licences-subtitle" : "It's time to create your own server!",
         "licence-indi" : "individual",
         "licence-commu" : "Community",
-        "licence-org" : "organization"
+        "licence-org" : "organization",
+        "free" : "FREE",
+        "request" : "Request",
+        "max-members" : "Max. members",
+        "serv-icon" : "Server icon",
+        "serv-banner" : "Server banner",
+        "role-icon" : "Role icon",
+        "custom-link" : "Custom link",
+        "save-messages" : "Save messages",
+        "pin-messages" : "Pinned msg",
+        "verified-badge" : "Verified Badge",
+        "order" : "Order",
+        "custom-price" : "Custom-made"
+      },
+      "sidebar": {
+        "you" : "you",
+        "explore": "Explore",
+        "create-serv": "Create server"
       }
     }
   }
