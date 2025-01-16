@@ -24,6 +24,22 @@
         "you" : "you",
         "explore": "Explore",
         "create-serv": "Create server"
+      },
+      "you" : {
+        "welcome" : {
+          "title" : "Welcome to",
+          "projectname" : "Authon",
+          "cards" : {
+            "customtitle" : "Customize your profile",
+            "customdesc" : "It's time for a makeover! Do something that suits you",
+            "invitetitle" : "Inviting friends",
+            "invitedesc" : "Invite your friends to your server or group",
+            "createtitle" : "Create a server",
+            "createdesc" : "It's time to create the server of your dreams here! server for chill or gaming everything possible",
+            "whotitle" : "Who are the creators of Authon?",
+            "whodesc" : "The creators of Authon are an independent studio whose value is not to distort their products."
+          }
+        }
       }
     }
   }

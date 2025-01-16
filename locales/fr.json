@@ -24,6 +24,23 @@
         "you" : "Vous",
         "explore": "Explorer",
         "create-serv": "Créé un serveur"
+      },
+      "you": {
+          "welcome": {
+              "title": "Bienvenue sur",
+              "projectname": "Authon",
+              "cards": {
+                  "customtitle": "Personnalisez votre profil",
+                  "customdesc": "Il est temps de changer de style ! Faites quelque chose qui vous correspond.",
+                  "invitetitle": "Inviter des amis",
+                  "invitedesc": "Invitez vos amis sur votre serveur ou groupe.",
+                  "createtitle": "Créer un serveur",
+                  "createdesc": "Il est temps de créer le serveur de vos rêves ici ! Un serveur pour se détendre ou pour jouer, tout est possible.",
+                  "whotitle": "Qui sont les créateurs d'Authon ?",
+                  "whodesc": "Les créateurs d'Authon sont un studio indépendant dont la valeur est de ne pas dénaturer leurs produits."
+              }
+          }
       }
+
     }
 }
